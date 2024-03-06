@@ -1,0 +1,35 @@
+/* MENSAGEM PARA PEDIDO AGUARDANDO PAGAMENTO DE BOLETO */
+
+Olá [cwmp_order_name]! O seu pedido #[cwmp_order_number] está aguardando pagamento do boleto. Para visualizar e pagar o boleto, acesse o link [cwmpBilletLink]. Qualquer dúvida, estamos à disposição. 😊
+
+/* MENSAGEM PARA PEDIDO AGUARDANDO PAGAMENTO DE PIX */
+
+Olá [cwmp_order_name]! O seu pedido #[cwmp_order_number] está aguardando pagamento via Pix. Utilize a chave Pix [cwmpPixCopyPast] ou o QR Code enviado por e-mail para efetuar o pagamento. Assim que confirmado, prosseguiremos com o envio. Qualquer dúvida, estamos à disposição. 😊
+
+/* MENSAGEM PARA PEDIDO CONCLUIDO */
+
+Olá [cwmp_order_name]! 🎉 O seu pedido #[cwmp_order_number] foi concluído com sucesso! Em breve, iniciaremos o processo de envio. Acompanhe o status do seu pedido em nosso site. Qualquer dúvida, estamos à disposição. 😊
+
+/* MENSAGEM PARA CONFIRMAÇÃO DE PAGAMENTO */
+
+Olá [cwmp_order_name]! Recebemos a confirmação do pagamento para o seu pedido #[cwmp_order_number]. O processo de envio já foi iniciado e em breve você receberá os produtos. Acompanhe o status do seu pedido em nosso site. Qualquer dúvida, estamos à disposição. 😊
+
+/* MENSAGEM PARA PAGAMENTO RECUSADO */
+
+Olá [cwmp_order_name]! Infelizmente, o pagamento para o seu pedido #[cwmp_order_number] foi recusado. Se desejar, você pode tentar efetuar o pagamento novamente ou entrar em contato conosco para mais informações. Estamos aqui para ajudar. 😊
+
+/* MENSAGEM PARA PEDIDO ENVIADO */
+
+Olá [cwmp_order_name]! O seu pedido #[cwmp_order_number] foi enviado com sucesso! Em breve, você receberá os produtos no endereço fornecido. Acompanhe o status da entrega em nosso site. Qualquer dúvida, estamos à disposição. 😊
+
+/* MENSAGEM PARA RECUPERAÇÃO DE CARRINHO */
+
+Olá [cwmp_recovery_client_name]! Parece que você deixou alguns itens no seu carrinho em nosso site. Estamos aqui para ajudar! Se desejar, você pode continuar a sua compra e finalizar o pedido. Acesse o link [cwmp_recovery_link] para ver os itens. Qualquer dúvida, estamos à disposição. 😊
+
+/* MENSAGEM PARA RECUPERAÇÃO DE PAGAMENTO POR BOLETO */
+
+Olá [cwmp_order_name]! 🛒 Parece que você gerou um boleto para o seu pedido #[cwmp_order_number], mas o pagamento ainda não foi confirmado. Para visualizar e pagar o boleto, acesse o link [cwmpBilletLink]. Se precisar de ajuda para finalizar o pagamento ou se tiver alguma dúvida, estamos aqui para ajudar. 😊
+
+/* MENSAGEM PARA RECUPERAÇÃO DE PAGAMENTO POR PIX */
+
+Olá [cwmp_order_name]! 🛒 Parece que você iniciou um pagamento via Pix para o seu pedido #[cwmp_order_number], mas ainda não recebemos a confirmação. Utilize a chave Pix [cwmpPixCopyPast] ou o QR Code enviado por e-mail para efetuar o pagamento. Assim que confirmado, prosseguiremos com o envio. Se precisar de ajuda para finalizar o pagamento ou se tiver alguma dúvida, estamos aqui para ajudar. 😊
